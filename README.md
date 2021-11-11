@@ -1,5 +1,5 @@
 # Lavalink
-Simple set and forget lavalink node configuration.
+Simple _set and forget_ lavalink node configuration.
 
 Just clone the repositroy with:
 ```bash
