@@ -11,4 +11,4 @@ chmod +x run.sh
 ./run.sh
 ```
 
-That's it! To change the node configuration, simple edit the `application.yml` file.
+That's it! To change the node configuration, simply edit the `application.yml` file.
